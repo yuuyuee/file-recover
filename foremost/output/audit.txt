@@ -1,0 +1,37 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Dec 27 18:58:56 2016
+Invocation: ./foremost -t jpg,png -i disk.bin 
+Output directory: /home/yuyue/workdir/files-recover/foremost/output
+Configuration file: /home/yuyue/workdir/files-recover/foremost/foremost.conf
+------------------------------------------------------------------
+File: disk.bin
+Start: Tue Dec 27 18:58:56 2016
+Length: 119 MB (125763584 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00001048.jpg 	      73 KB 	     536576 	 
+1:	00124760.jpg 	      34 KB 	   63877120 	 
+2:	00150712.jpg 	     131 KB 	   77164544 	 
+3:	00152816.jpg 	       5 KB 	   78241804 	 
+4:	00152828.jpg 	       2 KB 	   78247948 	 
+5:	00153624.jpg 	      46 KB 	   78655488 	 
+6:	00153817.jpg 	       3 KB 	   78754653 	 
+7:	00153832.jpg 	       5 KB 	   78762012 	 
+8:	00153842.jpg 	      17 KB 	   78767369 	 
+9:	00161150.jpg 	       2 KB 	   82509229 	 
+10:	00000464.png 	      83 KB 	     237568 	  (767 x 480)
+11:	00000632.png 	      95 KB 	     323584 	  (767 x 480)
+12:	00000824.png 	     111 KB 	     421888 	  (1366 x 768)
+13:	00001930.png 	      38 KB 	     988576 	  (256 x 256)
+Finish: Tue Dec 27 18:58:57 2016
+
+14 FILES EXTRACTED
+	
+jpg:= 10
+png:= 4
+------------------------------------------------------------------
+
+Foremost finished at Tue Dec 27 18:58:57 2016

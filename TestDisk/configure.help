@@ -1,0 +1,168 @@
+`configure' configures testdisk 7.0-WIP to adapt to many kinds of systems.
+
+Usage: ./configure [OPTION]... [VAR=VALUE]...
+
+To assign environment variables (e.g., CC, CFLAGS...), specify them as
+VAR=VALUE.  See below for descriptions of some of the useful variables.
+
+Defaults for the options are specified in brackets.
+
+Configuration:
+  -h, --help              display this help and exit
+      --help=short        display options specific to this package
+      --help=recursive    display the short help of all the included packages
+  -V, --version           display version information and exit
+  -q, --quiet, --silent   do not print `checking ...' messages
+      --cache-file=FILE   cache test results in FILE [disabled]
+  -C, --config-cache      alias for `--cache-file=config.cache'
+  -n, --no-create         do not create output files
+      --srcdir=DIR        find the sources in DIR [configure dir or `..']
+
+Installation directories:
+  --prefix=PREFIX         install architecture-independent files in PREFIX
+                          [/usr/local]
+  --exec-prefix=EPREFIX   install architecture-dependent files in EPREFIX
+                          [PREFIX]
+
+By default, `make install' will install all the files in
+`/usr/local/bin', `/usr/local/lib' etc.  You can specify
+an installation prefix other than `/usr/local' using `--prefix',
+for instance `--prefix=$HOME'.
+
+For better control, use the options below.
+
+Fine tuning of the installation directories:
+  --bindir=DIR            user executables [EPREFIX/bin]
+  --sbindir=DIR           system admin executables [EPREFIX/sbin]
+  --libexecdir=DIR        program executables [EPREFIX/libexec]
+  --sysconfdir=DIR        read-only single-machine data [PREFIX/etc]
+  --sharedstatedir=DIR    modifiable architecture-independent data [PREFIX/com]
+  --localstatedir=DIR     modifiable single-machine data [PREFIX/var]
+  --runstatedir=DIR       modifiable per-process data [LOCALSTATEDIR/run]
+  --libdir=DIR            object code libraries [EPREFIX/lib]
+  --includedir=DIR        C header files [PREFIX/include]
+  --oldincludedir=DIR     C header files for non-gcc [/usr/include]
+  --datarootdir=DIR       read-only arch.-independent data root [PREFIX/share]
+  --datadir=DIR           read-only architecture-independent data [DATAROOTDIR]
+  --infodir=DIR           info documentation [DATAROOTDIR/info]
+  --localedir=DIR         locale-dependent data [DATAROOTDIR/locale]
+  --mandir=DIR            man documentation [DATAROOTDIR/man]
+  --docdir=DIR            documentation root [DATAROOTDIR/doc/testdisk]
+  --htmldir=DIR           html documentation [DOCDIR]
+  --dvidir=DIR            dvi documentation [DOCDIR]
+  --pdfdir=DIR            pdf documentation [DOCDIR]
+  --psdir=DIR             ps documentation [DOCDIR]
+
+Program names:
+  --program-prefix=PREFIX            prepend PREFIX to installed program names
+  --program-suffix=SUFFIX            append SUFFIX to installed program names
+  --program-transform-name=PROGRAM   run sed PROGRAM on installed program names
+
+System types:
+  --build=BUILD     configure for building on BUILD [guessed]
+  --host=HOST       cross-compile to build programs to run on HOST [BUILD]
+  --target=TARGET   configure for building compilers for TARGET [HOST]
+
+Optional Features:
+  --disable-option-checking  ignore unrecognized --enable/--with options
+  --disable-FEATURE       do not include FEATURE (same as --enable-FEATURE=no)
+  --enable-FEATURE[=ARG]  include FEATURE [ARG=yes]
+  --enable-silent-rules   less verbose build output (undo: "make V=1")
+  --disable-silent-rules  verbose build output (undo: "make V=0")
+  --enable-assert         enable compilation of assert code (default is YES)
+  --enable-sudo           enable use of sudo (default is NO)
+  --enable-missing-uuid-ok
+                          force compilation even if both uuidgen and
+                          uuid_generate are missing, for developpement only
+                          (default is NO)
+  --enable-qt             enable use of qt (default is YES)
+  --enable-ncmouse        enable use of mouse in ncurses(default is NO)
+  --disable-dfxml
+  --enable-coverage=LEVEL
+			  enable compiler's code coverage collection.
+			  Use to measure compiler performance and locate
+			  unused parts of the compiler. With LEVEL, specify
+			  optimization. Values are opt, noopt,
+			  default is noopt
+  --enable-gprof          Produce gprof profiling data in 'gmon.out' (GCC
+                          only).
+  --enable-dependency-tracking
+                          do not reject slow dependency extractors
+  --disable-dependency-tracking
+                          speeds up one-time build
+  --disable-largefile     omit support for large files
+
+Optional Packages:
+  --with-PACKAGE[=ARG]    use PACKAGE [ARG=yes]
+  --without-PACKAGE       do not use PACKAGE (same as --with-PACKAGE=no)
+  --without-ncurses       disabled use of the curses/ncurses/pdcurses/curses
+                          library (default is NO)
+  --with-ncurses-lib=DIR  location of the ncurses library
+  --with-ncurses-includes=DIR
+                          location of the ncurses includes files
+  --without-ext2fs        disabled use of the ext2fs library (default is NO)
+  --with-ext2fs-lib=DIR   location of the ext2fs library
+  --with-ext2fs-includes=DIR
+                          location of the ext2fs includes files
+  --with-com_err-lib=DIR  location of the com_err library
+  --with-com_err-includes=DIR
+                          location of the com_err includes files
+  --without-jpeg          disabled use of the jpeg library (default is NO)
+  --with-jpeg-lib=DIR     location of the jpeg library
+  --with-jpeg-includes=DIR
+                          location of the jpeg includes files
+  --without-ntfs          disabled use of the ntfs library (default is NO)
+  --with-ntfs-lib=DIR     location of the ntfs library
+  --with-ntfs-includes=DIR
+                          location of the ntfs includes files
+  --without-ntfs3g        disabled use of the ntfs3g library (default is NO)
+  --with-ntfs3g-lib=DIR   location of the ntfs3g library
+  --with-ntfs3g-includes=DIR
+                          location of the ntfs3g includes files
+  --with-dal-lib=DIR      location of the dal library
+  --without-reiserfs      disabled use of the reiserfs library (default is NO)
+  --with-reiserfs-lib=DIR location of the reiserfs library
+  --with-reiserfs-includes=DIR
+                          location of the reiserfs includes files
+  --without-ewf           disabled use of the ewf library (default is NO)
+  --with-ewf-lib=DIR      location of the ewf library
+  --with-ewf-includes=DIR location of the ewf includes files
+  --without-iconv         disabled use of the iconv library (default is NO)
+  --with-iconv-lib=DIR    location of the iconv library
+  --with-iconv-includes=DIR
+                          location of the iconv includes files
+  --with-giconv-lib=DIR   location of the giconv library
+  --with-giconv-includes=DIR
+                          location of the giconv includes files
+  --without-zlib          disabled use of the zlib library
+  --without-uuid          disabled use of the uuid library
+  --with-sudo-bin=PROG    location of the sudo binary
+  --with-uuid-lib=DIR     location of the uuid library
+  --with-uuid-includes=DIR
+                          location of the uuid includes files
+
+Some influential environment variables:
+  CC          C compiler command
+  CFLAGS      C compiler flags
+  LDFLAGS     linker flags, e.g. -L<lib dir> if you have libraries in a
+              nonstandard directory <lib dir>
+  LIBS        libraries to pass to the linker, e.g. -l<library>
+  CPPFLAGS    (Objective) C/C++ preprocessor flags, e.g. -I<include dir> if
+              you have headers in a nonstandard directory <include dir>
+  CXX         C++ compiler command
+  CXXFLAGS    C++ compiler flags
+  PKG_CONFIG  path to pkg-config utility
+  PKG_CONFIG_PATH
+              directories to add to pkg-config's search path
+  PKG_CONFIG_LIBDIR
+              path overriding pkg-config's built-in search path
+  WINDRES     Windows Resource compiler tool path
+  CPP         C preprocessor
+  QTGUI_CFLAGS
+              C compiler flags for QTGUI, overriding pkg-config
+  QTGUI_LIBS  linker flags for QTGUI, overriding pkg-config
+
+Use these variables to override the choices made by `configure' or to help
+it to find libraries and programs with nonstandard names/locations.
+
+Report bugs to <grenier@cgsecurity.org>.

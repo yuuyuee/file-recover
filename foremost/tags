@@ -1,0 +1,402 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AUDIT_FILE_NAME	./main.h	225;"	d
+AUTHOR	./main.h	22;"	d
+AVI	./main.h	234;"	d
+BIG_ENDIAN	./main.h	115;"	d
+BIG_ENDIAN	./main.h	66;"	d
+BLANK_LINE	./main.h	130;"	d
+BLANK_LINE	./main.h	154;"	d
+BMP	./main.h	230;"	d
+BYTE_ORDER	./main.h	118;"	d
+BYTE_ORDER	./main.h	71;"	d
+BYTE_ORDER	./main.h	73;"	d
+CHUNK_SIZE	./main.h	286;"	d
+CMD_PROMPT	./main.h	126;"	d
+CMD_PROMPT	./main.h	150;"	d
+COMMENT_LENGTH	./main.h	201;"	d
+CONF	./main.h	251;"	d
+COPYRIGHT	./main.h	26;"	d
+CPP	./main.h	242;"	d
+DEFAULT_CONFIG_FILE	./main.h	223;"	d
+DEFAULT_MODE	./main.h	222;"	d
+DEFAULT_OUTPUT_DIRECTORY	./main.h	224;"	d
+DIRECTORY	./ole.h	/^struct DIRECTORY$/;"	s
+DIRS_PER_BLK	./ole.h	15;"	d
+DIR_SEPARATOR	./main.h	127;"	d
+DIR_SEPARATOR	./main.h	151;"	d
+DOC	./main.h	233;"	d
+DOCX	./main.h	257;"	d
+ELF	./main.h	255;"	d
+END_OF_CHAIN	./ole.h	4;"	d
+EXABYTE	./main.h	268;"	d
+EXE	./main.h	254;"	d
+FALSE	./main.h	86;"	d
+FALSE	./ole.h	2;"	d
+FAT	./api.c	/^int				*FAT;$/;"	v
+FAT_START	./ole.h	13;"	d
+FAT_next_block	./ole.h	/^       u_int32_t       FAT_next_block;                 \/*68*\/$/;"	m	struct:OLE_HDR
+FATblk	./api.c	/^int				FATblk;$/;"	v
+FOREMOST_BIG_ENDIAN	./main.h	283;"	d
+FOREMOST_DIVIDER	./main.h	226;"	d
+FOREMOST_LITTLE_ENDIAN	./main.h	284;"	d
+FOREMOST_NOEXTENSION_SUFFIX	./main.h	218;"	d
+GIF	./main.h	229;"	d
+GIGABYTE	./main.h	265;"	d
+GZIP	./main.h	244;"	d
+HTM	./main.h	236;"	d
+JPEG	./main.h	228;"	d
+KILOBYTE	./main.h	263;"	d
+LINE_LENGTH	./main.h	129;"	d
+LINE_LENGTH	./main.h	153;"	d
+LITTLE_ENDIAN	./main.h	116;"	d
+LITTLE_ENDIAN	./main.h	67;"	d
+MAX_FILE_TYPES	./main.h	217;"	d
+MAX_NEEDLES	./main.h	214;"	d
+MAX_STRING_LENGTH	./main.h	200;"	d
+MAX_SUFFIX_LENGTH	./main.h	216;"	d
+MEGABYTE	./main.h	264;"	d
+MIN	./ole.h	17;"	d
+MOV	./main.h	238;"	d
+MP4	./main.h	260;"	d
+MPG	./main.h	231;"	d
+Malloc	./api.c	/^void *Malloc(size_t bytes)$/;"	f
+NEWLINE	./main.h	128;"	d
+NEWLINE	./main.h	152;"	d
+NO_ENTRY	./ole.h	7;"	d
+NUM_SEARCH_SPEC_ELEMENTS	./main.h	215;"	d
+OLE	./main.h	243;"	d
+OLE_DIR	./ole.h	/^struct OLE_DIR$/;"	s
+OLE_HDR	./ole.h	/^struct OLE_HDR$/;"	s
+ONE_MEGABYTE	./main.h	87;"	d
+OUR_BLK_SIZE	./ole.h	14;"	d
+PDF	./main.h	232;"	d
+PETABYTE	./main.h	267;"	d
+PNG	./main.h	252;"	d
+PPT	./main.h	240;"	d
+PPTX	./main.h	259;"	d
+RAR	./main.h	253;"	d
+REG	./main.h	256;"	d
+RIFF	./main.h	245;"	d
+ROOT	./ole.h	10;"	d
+SEARCHTYPE_ASCII	./main.h	281;"	d
+SEARCHTYPE_FORWARD	./main.h	278;"	d
+SEARCHTYPE_FORWARD_NEXT	./main.h	280;"	d
+SEARCHTYPE_REVERSE	./main.h	279;"	d
+SHORT_BLOCK	./ole.h	11;"	d
+SPECIAL_BLOCK	./ole.h	3;"	d
+STORAGE	./ole.h	8;"	d
+STREAM	./ole.h	9;"	d
+SXC	./main.h	249;"	d
+SXI	./main.h	250;"	d
+SXW	./main.h	248;"	d
+TERABYTE	./main.h	266;"	d
+TRUE	./main.h	85;"	d
+TRUE	./ole.h	1;"	d
+UNITS_BYTES	./main.h	270;"	d
+UNITS_EXAB	./main.h	276;"	d
+UNITS_GIGAB	./main.h	273;"	d
+UNITS_KILOB	./main.h	271;"	d
+UNITS_MEGAB	./main.h	272;"	d
+UNITS_PETAB	./main.h	275;"	d
+UNITS_TERAB	./main.h	274;"	d
+UNUSED	./ole.h	5;"	d
+VJPEG	./main.h	247;"	d
+WAV	./main.h	246;"	d
+WMV	./main.h	235;"	d
+WPD	./main.h	241;"	d
+XLS	./main.h	239;"	d
+XLSX	./main.h	258;"	d
+ZIP	./main.h	237;"	d
+_CRT_fmode	./main.c	/^int _CRT_fmode = _O_BINARY;$/;"	v
+_GNU_SOURCE	./main.h	32;"	d
+__FOREMOST_H	./main.h	18;"	d
+__U16_TYPE	./main.h	108;"	d
+__U16_TYPE	./main.h	81;"	d
+__UNIX	./main.h	100;"	d
+__USE_BSD	./main.h	60;"	d
+__progname	./main.h	/^char *__progname;$/;"	v
+add_marker	./state.c	/^void add_marker(f_state *s, int index, char *marker, int markerlength)$/;"	f
+adjust_bs	./extract.c	/^int adjust_bs(int size, int bs)$/;"	f
+audit_file	./main.h	/^  FILE *audit_file;$/;"	m	struct:f_state
+audit_file_name	./main.h	/^  char *audit_file_name;$/;"	m	struct:f_state
+audit_file_open	./main.h	/^  int audit_file_open;$/;"	m	struct:f_state
+audit_finish	./engine.c	/^void audit_finish(f_state *s, f_info *i)$/;"	f
+audit_layout	./engine.c	/^void audit_layout(f_state *s)$/;"	f
+audit_msg	./state.c	/^void audit_msg(f_state *s, char *format, ...)$/;"	f
+audit_start	./engine.c	/^void audit_start(f_state *s, f_info *i)$/;"	f
+bflags	./ole.h	/^	char			bflags;					\/\/0 or 1$/;"	m	struct:OLE_DIR
+block_list	./api.c	/^int				block_list[OUR_BLK_SIZE \/ sizeof(int)];$/;"	v
+block_size	./main.h	/^  int block_size;$/;"	m	struct:f_state
+bm_search	./engine.c	/^unsigned char *bm_search(unsigned char *needle, size_t needle_len, unsigned char *haystack,$/;"	f
+bm_search_skipn	./engine.c	/^unsigned char *bm_search_skipn(unsigned char *needle, size_t needle_len, unsigned char *haystack,$/;"	f
+buffer	./api.c	/^unsigned char	buffer[OUR_BLK_SIZE];$/;"	v
+bytes_read	./main.h	/^  off_t bytes_read;$/;"	m	struct:f_info
+case_sen	./main.h	/^    int case_sen;$/;"	m	struct:s_spec
+catch_alarm	./main.c	/^void catch_alarm(int signum)$/;"	f
+charactersMatch	./helpers.c	/^int charactersMatch(char a, char b, int caseSensitive)$/;"	f
+check_mov	./extract.c	/^int check_mov(unsigned char *atom)$/;"	f
+check_ole_name	./extract.c	/^char *check_ole_name(char *name)$/;"	f
+chop	./helpers.c	/^unsigned int chop (char *buf)$/;"	f
+chunk_size	./main.h	/^  int chunk_size; \/*IN MB*\/$/;"	m	struct:f_state
+clean_time_string	./dir.c	/^char *clean_time_string(char *time)$/;"	f
+cleanup_output	./dir.c	/^void cleanup_output(f_state *s)$/;"	f
+close_audit_file	./state.c	/^int close_audit_file(f_state *s)$/;"	f
+clsid	./ole.h	/^	char			clsid[16];				\/*8*\/$/;"	m	struct:OLE_HDR
+clsid	./ole.h	/^	char			clsid[16];$/;"	m	struct:OLE_DIR
+comment	./main.h	/^    char comment[MAX_STRING_LENGTH];\/*Used for audit*\/$/;"	m	struct:s_spec
+comment_length	./extract.h	/^	unsigned short	comment_length;				\/\/20$/;"	m	struct:zipEndCentralFileHeader
+compressed	./extract.h	/^	unsigned int	compressed;					\/\/18$/;"	m	struct:zipLocalFileHeader
+compressed	./extract.h	/^	unsigned int	compressed;					\/\/20$/;"	m	struct:zipCentralFileHeader
+compression	./extract.h	/^	signed short	compression;				\/\/8$/;"	m	struct:zipLocalFileHeader
+compression	./extract.h	/^	unsigned short	compression;				\/\/10$/;"	m	struct:zipCentralFileHeader
+compression	./extract.h	/^	unsigned short	compression;				\/\/6$/;"	m	struct:zipEndCentralFileHeader
+config_file	./main.h	/^  char *config_file;$/;"	m	struct:f_state
+crc	./extract.h	/^	unsigned int	crc;						\/\/14$/;"	m	struct:zipLocalFileHeader
+crc	./extract.h	/^	unsigned int	crc;						\/\/16$/;"	m	struct:zipCentralFileHeader
+create_output_directory	./dir.c	/^int create_output_directory(f_state *s)$/;"	f
+create_sub_dirs	./dir.c	/^int create_sub_dirs(f_state *s)$/;"	f
+csectMiniFat	./ole.h	/^       u_int32_t       csectMiniFat;                   \/*64 number of sectors in the minifat *\/$/;"	m	struct:OLE_HDR
+currFATblk	./api.c	/^int				currFATblk;$/;"	v
+current_time	./helpers.c	/^char *current_time(void)$/;"	f
+d1	./ole.h	/^	int		d1;$/;"	m	struct:DIRECTORY
+d2	./ole.h	/^	int		d2;$/;"	m	struct:DIRECTORY
+days1	./ole.h	/^	int				days1;$/;"	m	struct:OLE_DIR
+days2	./ole.h	/^	int				days2;$/;"	m	struct:OLE_DIR
+dfsignature	./ole.h	/^       u_int32_t       dfsignature;                    \/*52*\/$/;"	m	struct:OLE_HDR
+die	./api.c	/^void die(char *fmt, void *arg)$/;"	f
+dir	./ole.h	/^	int		dir;$/;"	m	struct:DIRECTORY
+dir_count	./api.c	/^int				dir_count = 0;$/;"	v
+dir_dirent	./ole.h	/^	unsigned long	dir_dirent;$/;"	m	struct:OLE_DIR
+dir_flag	./ole.h	/^       u_int32_t       dir_flag;                               \/*60 first sec in the mini fat chain*\/$/;"	m	struct:OLE_HDR
+dirlist	./ole.h	/^*dirlist, *dl;$/;"	v	typeref:struct:DIRECTORY
+disk_number_start	./extract.h	/^	unsigned short	disk_number_start;			\/\/34$/;"	m	struct:zipCentralFileHeader
+displayPosition	./helpers.c	/^int displayPosition(f_state *s, f_info *i, u_int64_t pos)$/;"	f
+dl	./ole.h	/^*dirlist, *dl;$/;"	v	typeref:struct:DIRECTORY
+dumpInd	./engine.c	/^void dumpInd(unsigned char *ind, int bs)$/;"	f
+dump_dirent	./api.c	/^int dump_dirent(int which_one)$/;"	f
+dump_header	./api.c	/^void dump_header(struct OLE_HDR *h)$/;"	f
+dump_ole_header	./api.c	/^void dump_ole_header(struct OLE_HDR *h)$/;"	f
+dump_state	./state.c	/^void dump_state(f_state *s)$/;"	f
+extra_length	./extract.h	/^	unsigned short	extra_length;				\/\/28$/;"	m	struct:zipLocalFileHeader
+extra_length	./extract.h	/^	unsigned short	extra_length;				\/\/30$/;"	m	struct:zipCentralFileHeader
+extract	./api.c	/^int				extract = 0;$/;"	v
+extractSearchSpecData	./config.c	/^int extractSearchSpecData(f_state *state, char **tokenarray)$/;"	f
+extract_bmp	./extract.c	/^unsigned char *extract_bmp(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_cpp	./extract.c	/^unsigned char *extract_cpp(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_exe	./extract.c	/^unsigned char *extract_exe(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_file	./extract.c	/^unsigned char *extract_file(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_generic	./extract.c	/^unsigned char *extract_generic(f_state *s, u_int64_t c_offset, unsigned char *foundat,$/;"	f
+extract_gif	./extract.c	/^unsigned char *extract_gif(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_htm	./extract.c	/^unsigned char *extract_htm(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_jpeg	./extract.c	/^unsigned char *extract_jpeg(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_mov	./extract.c	/^unsigned char *extract_mov(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_mp4	./extract.c	/^unsigned char *extract_mp4(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_mpg	./extract.c	/^unsigned char *extract_mpg(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_name	./api.c	/^char			*extract_name;$/;"	v
+extract_ole	./extract.c	/^unsigned char *extract_ole(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_pdf	./extract.c	/^unsigned char *extract_pdf(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_png	./extract.c	/^unsigned char *extract_png(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_rar	./extract.c	/^unsigned char *extract_rar(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_reg	./extract.c	/^unsigned char *extract_reg(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_riff	./extract.c	/^unsigned char *extract_riff(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_wmv	./extract.c	/^unsigned char *extract_wmv(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+extract_zip	./extract.c	/^unsigned char *extract_zip(f_state *s, u_int64_t c_offset, unsigned char *foundat, u_int64_t buflen,$/;"	f
+f_info	./main.h	/^typedef struct f_info {$/;"	s
+f_info	./main.h	/^} f_info;$/;"	t	typeref:struct:f_info
+f_state	./main.h	/^typedef struct f_state $/;"	s
+f_state	./main.h	/^} f_state;$/;"	t	typeref:struct:f_state
+fatal_error	./cli.c	/^void fatal_error (f_state * s, char *msg)$/;"	f
+file_name	./main.h	/^  char *file_name;$/;"	m	struct:f_info
+filecomment_length	./extract.h	/^	unsigned short	filecomment_length;			\/\/32$/;"	m	struct:zipCentralFileHeader
+filename_length	./extract.h	/^	unsigned short	filename_length;			\/\/26$/;"	m	struct:zipLocalFileHeader
+filename_length	./extract.h	/^	unsigned short	filename_length;			\/\/28$/;"	m	struct:zipCentralFileHeader
+fileswritten	./main.h	/^  int fileswritten;$/;"	m	struct:f_state
+find_dev_size	./helpers.c	/^off_t find_dev_size(int fd, int blk_size)$/;"	f
+find_file_size	./helpers.c	/^off_t find_file_size(FILE *f)$/;"	f
+footer	./main.h	/^    unsigned char* footer;$/;"	m	struct:s_spec
+footer_bm_table	./main.h	/^    size_t footer_bm_table[UCHAR_MAX+1];$/;"	m	struct:s_spec
+footer_len	./main.h	/^    unsigned int footer_len;$/;"	m	struct:s_spec
+found	./main.h	/^    int found;$/;"	m	struct:s_spec
+free_state	./state.c	/^void free_state(f_state *s)$/;"	f
+fseeko	./main.h	160;"	d
+ftello	./main.h	159;"	d
+genFlag	./extract.h	/^	unsigned short	genFlag;					\/\/6$/;"	m	struct:zipLocalFileHeader
+genFlag	./extract.h	/^	unsigned short	genFlag;					\/\/8$/;"	m	struct:zipCentralFileHeader
+get_FAT_block	./api.c	/^int get_FAT_block(unsigned char *fd, int blknum, int *dest, int buffersize)$/;"	f
+get_audit_file_open	./state.c	/^int get_audit_file_open(f_state *s)$/;"	f
+get_block	./api.c	/^int get_block(unsigned char *fd, int blknum, unsigned char *dest, long long int buffersize)$/;"	f
+get_config_file	./state.c	/^char *get_config_file(f_state *s)$/;"	f
+get_dir_block	./api.c	/^int get_dir_block(unsigned char *fd, int blknum, int buffersize)$/;"	f
+get_dir_info	./api.c	/^int get_dir_info(unsigned char *src)$/;"	f
+get_invocation	./state.c	/^char *get_invocation(f_state *s)$/;"	f
+get_mode	./state.c	/^int get_mode(f_state *s, off_t check_mode)$/;"	f
+get_ole_block	./api.c	/^unsigned char *get_ole_block(unsigned char *fd, int blknum, unsigned long long buffersize)$/;"	f
+get_output_directory	./state.c	/^char *get_output_directory(f_state *s)$/;"	f
+get_start_time	./state.c	/^char *get_start_time(f_state *s)$/;"	f
+handle	./main.h	/^  FILE *handle;$/;"	m	struct:f_info
+header	./main.h	/^    unsigned char* header;$/;"	m	struct:s_spec
+header_bm_table	./main.h	/^    size_t header_bm_table[UCHAR_MAX+1];$/;"	m	struct:s_spec
+header_len	./main.h	/^    unsigned int header_len;$/;"	m	struct:s_spec
+highblk	./api.c	/^int				highblk = 0;$/;"	v
+htoi	./helpers.c	/^unsigned int htoi(unsigned char s[], int endian)$/;"	f
+htoll	./helpers.c	/^u_int64_t htoll(unsigned char s[], int endian)$/;"	f
+htos	./helpers.c	/^unsigned short htos(unsigned char s[], int endian)$/;"	f
+human_readable	./helpers.c	/^char *human_readable(off_t size, char *buffer)$/;"	f
+ind_block	./engine.c	/^int ind_block(unsigned char *foundat, u_int64_t buflen, int bs)$/;"	f
+init_all	./state.c	/^void init_all(f_state *state)$/;"	f
+init_bm_table	./state.c	/^void init_bm_table(unsigned char *needle, size_t table[UCHAR_MAX + 1], size_t len, int casesensitive,$/;"	f
+init_builtin	./state.c	/^int init_builtin(f_state *s, int type, char *suffix, char *header, char *footer, int header_len,$/;"	f
+init_ole	./api.c	/^void init_ole()$/;"	f
+initialize_state	./state.c	/^int initialize_state (f_state * s, int argc, char **argv)$/;"	f
+input_file	./main.h	/^  char *input_file;$/;"	m	struct:f_state
+invocation	./main.h	/^  char *invocation;$/;"	m	struct:f_state
+is_empty_directory	./dir.c	/^int is_empty_directory (DIR * temp)$/;"	f
+is_stdin	./main.h	/^  int is_stdin;$/;"	m	struct:f_info
+last_mod_date	./extract.h	/^	unsigned short	last_mod_date;				\/\/12$/;"	m	struct:zipLocalFileHeader
+last_mod_date	./extract.h	/^	unsigned short	last_mod_date;				\/\/14$/;"	m	struct:zipCentralFileHeader
+last_mod_time	./extract.h	/^	unsigned short	last_mod_time;				\/\/10$/;"	m	struct:zipLocalFileHeader
+last_mod_time	./extract.h	/^	unsigned short	last_mod_time;				\/\/12$/;"	m	struct:zipCentralFileHeader
+last_read	./main.h	/^  off_t last_read;$/;"	m	struct:f_info
+len	./main.h	/^    int len;$/;"	m	struct:marker
+level	./ole.h	/^	int		level;$/;"	m	struct:DIRECTORY
+lnlv	./api.c	/^static int	*lnlv;			\/* last next link visited ! *\/$/;"	v	file:
+load_config_file	./config.c	/^int load_config_file(f_state *s)$/;"	f
+lstat	./main.h	170;"	d
+magic	./ole.h	/^	char			magic[8];				\/*0*\/$/;"	m	struct:OLE_HDR
+main	./main.c	/^int main(int argc, char **argv)$/;"	f
+make_magic	./helpers.c	/^void make_magic(void)$/;"	f
+make_new_directory	./dir.c	/^int make_new_directory(f_state *s, char *fn)$/;"	f
+marker	./main.h	/^typedef struct marker$/;"	s
+marker	./main.h	/^}marker;$/;"	t	typeref:struct:marker
+marker_bm_table	./main.h	/^    size_t marker_bm_table[UCHAR_MAX+1];$/;"	m	struct:marker
+markerlist	./main.h	/^    marker markerlist[5];$/;"	m	struct:s_spec
+max_len	./main.h	/^    u_int64_t max_len;$/;"	m	struct:s_spec
+memwildcardcmp	./helpers.c	/^int memwildcardcmp(const void *s1, const void *s2, size_t n, int caseSensitive)$/;"	f
+midpoint	./helpers.c	/^static off_t midpoint(off_t a, off_t b, long blksize)$/;"	f	file:
+miniSectorCutoff	./ole.h	/^       u_int32_t       miniSectorCutoff;               \/*56*\/$/;"	m	struct:OLE_HDR
+mode	./main.h	/^  off_t mode;$/;"	m	struct:f_state
+mode_ind_blk	./main.h	208;"	d
+mode_multi_file	./main.h	212;"	d
+mode_none	./main.h	205;"	d
+mode_quick	./main.h	209;"	d
+mode_quiet	./main.h	207;"	d
+mode_verbose	./main.h	206;"	d
+mode_write_all	./main.h	210;"	d
+mode_write_audit	./main.h	211;"	d
+name	./ole.h	/^	char			name[64];$/;"	m	struct:OLE_DIR
+name	./ole.h	/^	char	name[64];$/;"	m	struct:DIRECTORY
+namsiz	./ole.h	/^	unsigned short	namsiz;$/;"	m	struct:OLE_DIR
+next	./ole.h	/^	int		next;$/;"	m	struct:DIRECTORY
+next_dirent	./ole.h	/^	unsigned long	next_dirent;$/;"	m	struct:OLE_DIR
+numOfdisk	./extract.h	/^	unsigned short	numOfdisk;					\/\/4$/;"	m	struct:zipEndCentralFileHeader
+num_FAT_blocks	./ole.h	/^       u_int32_t       num_FAT_blocks;                 \/*44*\/$/;"	m	struct:OLE_HDR
+num_builtin	./main.h	/^  int num_builtin;$/;"	m	struct:f_state
+num_entries_in_central_dir	./extract.h	/^	unsigned short	num_entries_in_central_dir; \/\/10$/;"	m	struct:zipEndCentralFileHeader
+num_extra_FAT_blocks	./ole.h	/^       u_int32_t       num_extra_FAT_blocks;   \/*72*\/$/;"	m	struct:OLE_HDR
+num_markers	./main.h	/^    int num_markers;$/;"	m	struct:s_spec
+off_t	./main.h	146;"	d
+off_t	./main.h	148;"	d
+offset	./extract.h	/^	unsigned int	offset;						\/\/16$/;"	m	struct:zipEndCentralFileHeader
+open_audit_file	./state.c	/^int open_audit_file(f_state *s)$/;"	f
+output_directory	./main.h	/^  char *output_directory;$/;"	m	struct:f_state
+overflow_count	./main.h	/^  off_t overflow_count;$/;"	m	struct:f_info
+prev	./ole.h	/^	int		prev;$/;"	m	struct:DIRECTORY
+prev_dirent	./ole.h	/^	unsigned long	prev_dirent;$/;"	m	struct:OLE_DIR
+print_error	./cli.c	/^void print_error(f_state *s, char *fn, char *msg)$/;"	f
+print_message	./cli.c	/^void print_message(f_state *s, char *format, va_list argp)$/;"	f
+print_search_specs	./helpers.c	/^void print_search_specs(f_state *s)$/;"	f
+print_stats	./helpers.c	/^void print_stats(f_state *s)$/;"	f
+print_zip	./extract.h	/^void print_zip(struct zipLocalFileHeader *fileHeader, struct zipCentralFileHeader *centralHeader)$/;"	f
+printx	./helpers.c	/^void printx(unsigned char *buf, int start, int end)$/;"	f
+process_command_line	./main.c	/^void process_command_line(int argc, char **argv, f_state *s)$/;"	f
+process_file	./engine.c	/^int process_file(f_state *s)$/;"	f
+process_line	./config.c	/^int process_line(f_state *s, char *buffer, int line_number)$/;"	f
+process_stdin	./engine.c	/^int process_stdin(f_state *s)$/;"	f
+read_from_disk	./engine.c	/^unsigned char *read_from_disk(u_int64_t offset, f_info *i, u_int64_t length)$/;"	f
+realpath	./main.h	175;"	d
+register_signal_handler	./main.c	/^void register_signal_handler(void)$/;"	f
+reorder_dirlist	./api.c	/^int reorder_dirlist(struct DIRECTORY *dir, int level)$/;"	f
+reserved	./ole.h	/^	short			reserved;				\/\/must be 0$/;"	m	struct:OLE_DIR
+reserved	./ole.h	/^       __U16_TYPE      reserved;                               \/*34*\/$/;"	m	struct:OLE_HDR
+reserved1	./ole.h	/^       u_int32_t       reserved1;                              \/*36*\/$/;"	m	struct:OLE_HDR
+reserved2	./ole.h	/^       u_int32_t       reserved2;                              \/*40*\/$/;"	m	struct:OLE_HDR
+reverseBlock	./api.c	/^struct OLE_HDR *reverseBlock(struct OLE_HDR *dest, struct OLE_HDR *h)$/;"	f
+reverse_string	./helpers.c	/^char *reverse_string(char *to, char *from, int startLocation, int endLocation)$/;"	f
+root_start_block	./ole.h	/^       u_int32_t       root_start_block;               \/*48*\/$/;"	m	struct:OLE_HDR
+s1	./ole.h	/^	int		s1;$/;"	m	struct:DIRECTORY
+s2	./ole.h	/^	int		s2;$/;"	m	struct:DIRECTORY
+s_spec	./main.h	/^typedef struct s_spec$/;"	s
+s_spec	./main.h	/^}s_spec;$/;"	t	typeref:struct:s_spec
+search_chunk	./engine.c	/^int search_chunk(f_state *s, unsigned char *buf, f_info *i, u_int64_t chunk_size, u_int64_t f_offset)$/;"	f
+search_spec	./main.h	/^s_spec search_spec[50];  \/*ARRAY OF BUILTIN SEARCH TYPES*\/$/;"	v
+search_stream	./engine.c	/^int search_stream(f_state *s, f_info *i)$/;"	f
+searchtype	./main.h	/^    int searchtype;                               $/;"	m	struct:s_spec
+secs1	./ole.h	/^	int				secs1;$/;"	m	struct:OLE_DIR
+secs2	./ole.h	/^	int				secs2;$/;"	m	struct:OLE_DIR
+set_block	./state.c	/^void set_block(f_state *s, int size)$/;"	f
+set_chunk	./state.c	/^void set_chunk(f_state *s, int size)$/;"	f
+set_config_file	./state.c	/^int set_config_file(f_state *s, char *fn)$/;"	f
+set_input_file	./state.c	/^void set_input_file(f_state *s, char *filename)$/;"	f
+set_mode	./state.c	/^void set_mode(f_state *s, off_t new_mode)$/;"	f
+set_output_directory	./state.c	/^int set_output_directory(f_state *s, char *fn)$/;"	f
+set_search_def	./state.c	/^int set_search_def(f_state *s, char *ft, u_int64_t max_file_size)$/;"	f
+set_skip	./state.c	/^void set_skip(f_state *s, int size)$/;"	f
+setup_stream	./engine.c	/^void setup_stream(f_state *s, f_info *i)$/;"	f
+shift_string	./helpers.c	/^void shift_string(char *fn, int start, int new_start)$/;"	f
+signal_caught	./main.h	/^int signal_caught;$/;"	v
+signature	./extract.h	/^	unsigned int	signature;					\/\/0$/;"	m	struct:zipCentralFileHeader
+signature	./extract.h	/^	unsigned int	signature;					\/\/0$/;"	m	struct:zipEndCentralFileHeader
+signature	./extract.h	/^	unsigned int	signature;					\/\/0$/;"	m	struct:zipLocalFileHeader
+size	./ole.h	/^	int		size;$/;"	m	struct:DIRECTORY
+size	./ole.h	/^	unsigned long	size;$/;"	m	struct:OLE_DIR
+size_of_central_dir	./extract.h	/^	unsigned int	size_of_central_dir;		\/\/12$/;"	m	struct:zipEndCentralFileHeader
+skip	./main.h	/^  int skip;$/;"	m	struct:f_state
+skipWhiteSpace	./config.c	/^char *skipWhiteSpace(char *str)$/;"	f
+snprintf	./main.h	163;"	d
+start_block	./ole.h	/^	int		start_block;$/;"	m	struct:DIRECTORY
+start_block	./ole.h	/^	unsigned long	start_block;			\/\/starting SECT of stream$/;"	m	struct:OLE_DIR
+start_of_central_dir	./extract.h	/^	unsigned short	start_of_central_dir;		\/\/8$/;"	m	struct:zipEndCentralFileHeader
+start_time	./main.h	/^  char *start_time;$/;"	m	struct:f_state
+suffix	./main.h	/^    char* suffix;$/;"	m	struct:s_spec
+time_stamp	./main.h	/^  int time_stamp;$/;"	m	struct:f_state
+total_bytes	./main.h	/^  off_t total_bytes;$/;"	m	struct:f_info
+total_megs	./main.h	/^  off_t total_megs;$/;"	m	struct:f_info
+translate	./config.c	/^int translate (char *str)$/;"	f
+try_msg	./main.c	/^void try_msg(void)$/;"	f
+type	./main.h	/^    int type;$/;"	m	struct:s_spec
+type	./ole.h	/^	char			type;$/;"	m	struct:OLE_DIR
+type	./ole.h	/^	int		type;$/;"	m	struct:DIRECTORY
+uByteOrder	./ole.h	/^       __U16_TYPE      uByteOrder;                             \/*28*\/$/;"	m	struct:OLE_HDR
+uDllVersion	./ole.h	/^       __U16_TYPE      uDllVersion;                    \/*26*\/$/;"	m	struct:OLE_HDR
+uMiniSectorShift	./ole.h	/^       __U16_TYPE      uMiniSectorShift;               \/*32*\/$/;"	m	struct:OLE_HDR
+uMinorVersion	./ole.h	/^       __U16_TYPE      uMinorVersion;                  \/*24*\/$/;"	m	struct:OLE_HDR
+uSectorShift	./ole.h	/^       __U16_TYPE      uSectorShift;                   \/*30*\/$/;"	m	struct:OLE_HDR
+u_int32_t	./main.h	166;"	d
+u_int32_t	./main.h	92;"	d
+u_int64_t	./main.h	172;"	d
+u_int64_t	./main.h	53;"	d
+u_int64_t	./main.h	93;"	d
+uncompressed	./extract.h	/^	unsigned int	uncompressed;				\/\/22$/;"	m	struct:zipLocalFileHeader
+uncompressed	./extract.h	/^	unsigned int	uncompressed;				\/\/24$/;"	m	struct:zipCentralFileHeader
+units	./helpers.c	/^char *units(unsigned int c)$/;"	f
+usage	./main.c	/^void usage(void)$/;"	f
+userFlags	./ole.h	/^	unsigned long	userFlags;$/;"	m	struct:OLE_DIR
+user_interrupt	./engine.c	/^int user_interrupt (f_state * s, f_info * i)$/;"	f
+valid_ole_header	./extract.c	/^int valid_ole_header(struct OLE_HDR *h)$/;"	f
+value	./main.h	/^    unsigned char* value;$/;"	m	struct:marker
+verbose	./api.c	/^int				verbose = TRUE;$/;"	v
+version	./extract.h	/^	unsigned short	version;					\/\/4$/;"	m	struct:zipLocalFileHeader
+version_extract	./extract.h	/^	unsigned char	version_extract[2];			\/\/4$/;"	m	struct:zipCentralFileHeader
+version_madeby	./extract.h	/^	unsigned char	version_madeby[2];			\/\/6$/;"	m	struct:zipCentralFileHeader
+wildcard	./main.h	/^char wildcard;$/;"	v
+write_audit_header	./state.c	/^void write_audit_header(f_state *s)$/;"	f
+write_to_disk	./dir.c	/^int write_to_disk(f_state *s, s_spec *needle, u_int64_t len, unsigned char *buf, u_int64_t t_offset)$/;"	f
+written	./main.h	/^    int written; \/*used for -a mode*\/$/;"	m	struct:s_spec
+zipCentralFileHeader	./extract.h	/^struct zipCentralFileHeader$/;"	s
+zipEndCentralFileHeader	./extract.h	/^struct zipEndCentralFileHeader$/;"	s
+zipLocalFileHeader	./extract.h	/^struct zipLocalFileHeader$/;"	s

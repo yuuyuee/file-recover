@@ -1,0 +1,319 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2016.6.13)  27 DEC 2016 16:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\RequirePackage{readprov}\ReadFileInfos{foremost.8.gz}\typeout{^^J^^J + forem
+ost.8.gz info: + \csname ver@foremost.8.gz\endcsname^^J}\batchmode\stop
+(/usr/share/texlive/texmf-dist/tex/latex/fileinfo/readprov.sty
+Package: readprov 2012/11/22 v0.5 file infos without loading (UL)
+)
+(./foremost.8.gz
+! Text line contains an invalid character.
+l.1 ^^_
+       ‹^^H^^HMèŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ^^_‹
+        ^^H^^HMèŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+Missing character: There is no ‹ in font nullfont!
+! Text line contains an invalid character.
+l.1 ^^_‹^^H
+           ^^HMèŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+! Text line contains an invalid character.
+l.1 ^^_‹^^H^^H
+              MèŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+! Interruption.
+<to be read again> 
+                   M
+l.1 ^^_‹^^H^^HM
+               èŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+Missing character: There is no M in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no Š in font nullfont!
+Missing character: There is no K in font nullfont!
+! Text line contains an invalid character.
+l.1 ^^_‹^^H^^HMèŠK^^@
+                     ^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+! Text line contains an invalid character.
+l.1 ^^_‹^^H^^HMèŠK^^@^^C
+                        foremost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 8 in font nullfont!
+! Text line contains an invalid character.
+l.1 ^^_‹^^H^^HMèŠK^^@^^Cforemost.8^^@
+                                     •Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+Missing character: There is no • in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no Û in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+! Text line contains an invalid character.
+l.1 ^^_‹^^H^^HMèŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R
+                                              ~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+! Interruption.
+<to be read again> 
+                   \protect 
+l.1 ^^_‹^^H^^HMèŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R~
+                                               >ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥Š...
+
+? 
+Missing character: There is no > in font nullfont!
+Missing character: There is no ü in font nullfont!
+! Text line contains an invalid character.
+l.1 ...^H^^HMèŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U
+                                                  ¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥ŠJã...
+
+? 
+Missing character: There is no ¨ in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 ...^^HMèŠK^^@^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U¨_
+                                                  štdÕN›ÓI{&^^]Å–^^Sµ¶¥ŠJãLœ...
+
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+! Misplaced alignment tab character &.
+l.1 ...^^Cforemost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&
+                                                  ^^]Å–^^Sµ¶¥ŠJãLœ^^Gˆ^^D%Ä$...
+
+? 
+! Text line contains an invalid character.
+l.1 ...foremost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]
+                                                  Å–^^Sµ¶¥ŠJãLœ^^Gˆ^^D%Ä$Á^^...
+
+? 
+! Text line contains an invalid character.
+l.1 ...ost.8^^@•Y[sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^S
+                                                  µ¶¥ŠJãLœ^^Gˆ^^D%Ä$Á^^@ eõ×...
+
+? 
+! Text line contains an invalid character.
+l.1 ...sÛ¶^^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥ŠJãLœ^^G
+                                                  ˆ^^D%Ä$Á^^@ eõ×Ÿo^^W (%îtÚ...
+
+? 
+! Text line contains an invalid character.
+l.1 ...^R~>ü^^U¨_štdÕN›ÓI{&^^]Å–^^Sµ¶¥ŠJãLœ^^Gˆ^^D
+                                                  %Ä$Á^^@ eõ×Ÿo^^W (%îtÚé8^^...
+
+? 
+! Text line contains an invalid character.
+l.2 ,¢¹Ezón€?gôg^^R
+                   m{ó+Û£­s^^E^^CWº^^F^^A^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâ...
+
+? 
+! Text line contains an invalid character.
+l.2 ,¢¹Ezón€?gôg^^Rm{ó+Û£­s^^E
+                              ^^CWº^^F^^A^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâ...
+
+? 
+! Text line contains an invalid character.
+l.2 ,¢¹Ezón€?gôg^^Rm{ó+Û£­s^^E^^C
+                                 Wº^^F^^A^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâ...
+
+? 
+! Text line contains an invalid character.
+l.2 ,¢¹Ezón€?gôg^^Rm{ó+Û£­s^^E^^CWº^^F
+                                      ^^A^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâ...
+
+? 
+! Text line contains an invalid character.
+l.2 ,¢¹Ezón€?gôg^^Rm{ó+Û£­s^^E^^CWº^^F^^A
+                                         ^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâ...
+
+? 
+! Text line contains an invalid character.
+l.2 ,¢¹Ezón€?gôg^^Rm{ó+Û£­s^^E^^CWº^^F^^A^^R
+                                             òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâ...
+
+? 
+! Text line contains an invalid character.
+l.2 ...zón€?gôg^^Rm{ó+Û£­s^^E^^CWº^^F^^A^^R òg>^^P
+                                                  )|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâf...
+
+? 
+! Text line contains an invalid character.
+l.2 ...gôg^^Rm{ó+Û£­s^^E^^CWº^^F^^A^^R òg>^^P)|^^C
+                                                  ¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâfp>=»^...
+
+? 
+! Text line contains an invalid character.
+l.2 ...ó+Û£­s^^E^^CWº^^F^^A^^R òg>^^P)|^^C¦ÿÔéÃ^^V
+                                                  ‚^^@$MÀ®'³Ùâfp>=»^^YÜ\¦7Ow...
+
+? 
+! Text line contains an invalid character.
+l.2 ...­s^^E^^CWº^^F^^A^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@
+                                                  $MÀ®'³Ùâfp>=»^^YÜ\¦7Ow	!w...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.2 ...s^^E^^CWº^^F^^A^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$
+                                                  MÀ®'³Ùâfp>=»^^YÜ\¦7Ow	!w[...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.2 ...s^^E^^CWº^^F^^A^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$
+                                                  MÀ®'³Ùâfp>=»^^YÜ\¦7Ow	!w[...
+
+? 
+Missing character: There is no š in font cmr7!
+Missing character: There is no Õ in font cmr10!
+Missing character: There is no › in font cmr10!
+Missing character: There is no Ó in font cmr10!
+Missing character: There is no Å in font cmr10!
+Missing character: There is no – in font cmr10!
+Missing character: There is no µ in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no ¥ in font cmr10!
+Missing character: There is no Š in font cmr10!
+Missing character: There is no ã in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no º in font cmr10!
+Missing character: There is no ò in font cmr10!
+Missing character: There is no ¦ in font cmr10!
+Missing character: There is no ÿ in font cmr10!
+Missing character: There is no Ô in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no M in font nullfont!
+Missing character: There is no À in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ³ in font nullfont!
+Missing character: There is no Ù in font nullfont!
+Missing character: There is no â in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no » in font nullfont!
+! Text line contains an invalid character.
+l.2 ...^^R òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâfp>=»^^Y
+                                                  Ü\¦7Ow	!w[ûªû˜5Mr^^F
+? 
+Missing character: There is no Ü in font nullfont!
+! Undefined control sequence.
+l.2 ... òg>^^P)|^^C¦ÿÔéÃ^^V‚^^@$MÀ®'³Ùâfp>=»^^YÜ\¦
+                                                  7Ow	!w[ûªû˜5Mr^^F
+? 
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no r in font nullfont!
+! Text line contains an invalid character.
+l.2 ...^V‚^^@$MÀ®'³Ùâfp>=»^^YÜ\¦7Ow	!w[ûªû˜5Mr^^F
+                                                  
+? 
+Missing character: There is no Z in font nullfont!
+! Text line contains an invalid character.
+l.3 Z
+      Â^^Y€F^^D^^Y!Ğ D¼çPq¢±0×^^HR’˜":Y©ZQÌ“}ZB.^^W]ÅéqÆôzŒ)Ëd€ ‡6V^^]çª`...
+
+? 
+Missing character: There is no Â in font nullfont!
+! Text line contains an invalid character.
+l.3 ZÂ^^Y
+          €F^^D^^Y!Ğ D¼çPq¢±0×^^HR’˜":Y©ZQÌ“}ZB.^^W]ÅéqÆôzŒ)Ëd€ ‡6V^^]çª`...
+
+? 
+Missing character: There is no € in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no  in font nullfont!
+! Text line contains an invalid character.
+l.3 ZÂ^^Y€F^^D
+                ^^Y!Ğ D¼çPq¢±0×^^HR’˜":Y©ZQÌ“}ZB.^^W]ÅéqÆôzŒ)Ëd€ ‡6V^^]çª`...
+
+? 
+! Text line contains an invalid character.
+l.3 ZÂ^^Y€F^^D^^Y
+                   !Ğ D¼çPq¢±0×^^HR’˜":Y©ZQÌ“}ZB.^^W]ÅéqÆôzŒ)Ëd€ ‡6V^^]çª`...
+
+? 
+Missing character: There is no ! in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no × in font nullfont!
+! Text line contains an invalid character.
+l.3 ZÂ^^Y€F^^D^^Y!Ğ D¼çPq¢±0×^^H
+                                   R’˜":Y©ZQÌ“}ZB.^^W]ÅéqÆôzŒ)Ëd€ ‡6V^^]çª`...
+
+? 
+Missing character: There is no R in font nullfont!
+Missing character: There is no ’ in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missin
